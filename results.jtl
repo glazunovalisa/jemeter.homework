@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603700433680,6631,open homepage,200,OK,test 1-1,text,true,,6947,366,1,1,https://demo.nopcommerce.com/,6586,0,4319
+1603700441402,1089,search for random product,200,OK,test 1-1,text,true,,1733,423,1,1,https://demo.nopcommerce.com/catalog/searchtermautocomplete?term=apple,1089,0,0
+1603700443577,2491,open the product page,200,OK,test 1-1,text,true,,8763,431,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,2491,0,0
+1603700447079,395,add the product to the cart,200,OK,test 1-1,text,true,,2108,728,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,395,0,0
+1603700448543,1078,open the cart,200,OK,test 1-1,text,true,,4956,435,1,1,https://demo.nopcommerce.com/cart,1078,0,0
